@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek,
-- 👀 I’m interested in programming,web development and apps development 
-- 🌱 I’m currently learning react, JavaScript,flutter, python 
+- 👀 I’m interested in programming,web development 
+- 🌱 I’m currently learning react, JavaScript
 - 💞️ I’m looking to collaborate on remote job
 - 📫 How to reach me -whats-up+telegram 01646928379
 
